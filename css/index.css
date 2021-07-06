@@ -137,7 +137,7 @@ a.text-white-link:active {
 /* Adding some background color options */
 .bg-green {
 	/* Spotify Green - hex code from: https://brandpalettes.com/spotify-color-codes/ */
-	background-color: #1DB954 !important;
+	background-color: #1E90FF !important;
 }
 
 /* Black button to go with the Spotify Green. The active/focus/etc stuff is for when you
